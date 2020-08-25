@@ -1,0 +1,10 @@
+C:\Users\bryan\Desktop\Protitipo1P\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\Protitipo1P\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.MDIPARCIAL1.resources
+C:\Users\bryan\Desktop\Protitipo1P\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Properties.Resources.resources
+C:\Users\bryan\Desktop\Protitipo1P\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\Protitipo1P\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\Protitipo1P\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe.config
+C:\Users\bryan\Desktop\Protitipo1P\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe
+C:\Users\bryan\Desktop\Protitipo1P\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.pdb
+C:\Users\bryan\Desktop\Protitipo1P\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.exe
+C:\Users\bryan\Desktop\Protitipo1P\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.pdb
